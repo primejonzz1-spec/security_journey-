@@ -1,0 +1,1 @@
+Set up kali linux successfully in oracle virtual box, fixed keyboard compatibility, installed metasploitable and docker for hosting a vulnerable web machine. This is where i truly start, this is my journey, just watch me grow.
